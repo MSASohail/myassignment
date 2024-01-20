@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+#repositories {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+#repositories h2 {
+    margin-top: 0;
+}
+
+#repositories p {
+    margin-bottom: 10px;
+}
